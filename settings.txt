@@ -1,0 +1,4 @@
+debug=True
+timescale=80
+probability=0.2
+min_seconds_between_anomalies=10*80
